@@ -1,4 +1,4 @@
-Shader "LuB/NewToon"
+Shader "MyShader"
 {
     Properties
     {

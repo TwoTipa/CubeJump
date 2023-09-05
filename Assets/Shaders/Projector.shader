@@ -1,4 +1,4 @@
-﻿Shader "LuB/ProjectorLub"
+﻿Shader "ProjectorShader"
 {
 	Properties
 	{
